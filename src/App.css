@@ -1,0 +1,19 @@
+header{
+  background-color: aquamarine;
+  padding-bottom: 18px;
+}
+.imgii{
+height: 600px;
+width: 100%;
+}
+.App {
+  font-weight: 400;
+  color: black;
+
+  text-align: center;
+}
+
+img{
+  width: 200px;
+  height: 200px;
+}
